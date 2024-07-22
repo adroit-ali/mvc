@@ -1,0 +1,39 @@
+#my_custom_table_tbl_id{
+    border-radius: 10px;
+    width: 100%;
+    padding-top: 30px;
+    padding-right: 20px;
+    /* background-color: red; */
+}
+#my_custom_table_tbl_id th,
+#my_custom_table_tbl_id td{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#edit_my_custom_table_form_id{
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#edit_my_custom_table_form_id label{
+    text-align: left;
+    display: inline-block;
+    width: 70px;
+}
+#add_my_custom_table_form_id{
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#add_my_custom_table_form_id label{
+    text-align: left;
+    display: inline-block;
+    width: 70px;
+}
